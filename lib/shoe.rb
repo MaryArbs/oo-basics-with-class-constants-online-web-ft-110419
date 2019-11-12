@@ -12,8 +12,6 @@ BRANDS=[]
     end
   end
 
-  def brand=)
-  end
 
   def cobble
     self.condition = "new"
